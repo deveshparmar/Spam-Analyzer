@@ -1,2 +1,2 @@
 # Spam-Analyzer
-Spam anlysis of message using NLP
+Spam analysis of message using NLP
